@@ -24,6 +24,7 @@ public class HolaMundoJava {
 =======
         System.out.println("nuevo texto");
 >>>>>>> ae39dcaf18f3d57e4bea6bac5af7797976acb0c2
+	String cadena = "cadena";
     }
     
 }
