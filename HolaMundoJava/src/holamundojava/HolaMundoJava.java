@@ -18,6 +18,7 @@ public class HolaMundoJava {
         // TODO code application logic here
         System.out.println("Hola mundo");
         System.out.println("nuevo texto");
+        int a = 10;
     }
     
 }
